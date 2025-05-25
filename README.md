@@ -62,7 +62,6 @@ A modular **Flutter application** powered by **Firebase**, designed to manage in
 
 - **Flutter** (Dart)
 - **Firebase Firestore** – real-time NoSQL backend
-- **Firebase Authentication** (if user login is used)
 - **PDF** generation with `pdf` and `printing` packages
 - **State Management** (e.g., `Provider`, `Riverpod`, etc.)
 
