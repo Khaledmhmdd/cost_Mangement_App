@@ -76,3 +76,5 @@ A modular **Flutter application** powered by **Firebase**, designed to manage in
 git clone https://github.com/your-username/flutter-invoice-management.git
 cd flutter-invoice-management
 flutter pub get
+flutter run
+
